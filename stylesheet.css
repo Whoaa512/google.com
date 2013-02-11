@@ -1,0 +1,69 @@
+html body {
+	margin: 0px;
+}
+
+.topbar ul li {
+	float: left;
+	list-style: none;
+	margin-left: 20px;
+	color: #FFF;
+}
+
+.topbar ul {
+	overflow: hidden;
+}
+
+.topbar {
+	background-color: #222;
+}
+
+.sign_in_btn {
+	width: 72px;
+	height: 24px;
+	border: 1px solid gray;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 2px;
+	margin-right: 100px;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 40%;
+	text-align: center;
+}
+
+form input {
+	width: 75%;
+}
+
+.search_btns {
+	width: 96px;
+	height: 29px;
+	border: 1px solid gray;
+	border-radius: 2px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 5px;
+}
+
+.buttons {
+	overflow: hidden;
+}
+
+.footerbar ul li {
+	float: left;
+	list-style: none;
+	margin-left: 20px;
+	color: gray;
+	margin-top: 200px;
+}
+
+.footerbar ul {
+	overflow: hidden;
+}
+
+.footerbar {
+	background-color: #FFF;
+}
